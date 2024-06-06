@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   development: {
-    username: "admin",
+    username: "postgres",
     password: "postgres",
     database: "helpinghands_db",
     host: "localhost",
