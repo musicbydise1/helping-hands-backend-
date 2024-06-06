@@ -23,5 +23,5 @@ app.use(require("./app/news/routes"));
 
 
 app.listen(8000, () => {
-  console.log("server is listening at http://localhost:" + 8000);
+  console.log("server is listening at http://localhost:" + 3000);
 });
