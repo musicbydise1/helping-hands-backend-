@@ -22,6 +22,6 @@ app.use(require("./app/chat/routes"));
 app.use(require("./app/news/routes"));
 
 
-app.listen(8000, () => {
+app.listen(3000, () => {
   console.log("server is listening at http://localhost:" + 3000);
 });
